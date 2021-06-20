@@ -1,4 +1,4 @@
-# Sports Gambling
+# Horse Race Gambling
 
 ## Summary
 
