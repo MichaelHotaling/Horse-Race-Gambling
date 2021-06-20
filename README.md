@@ -26,7 +26,7 @@ Horse racing data containing horse data as well as race statistics spanning from
 - [Horse Racing Dataset for Experts](https://www.kaggle.com/hrosebaby/horse-racing-dataset-for-experts-hong-kong):
 A collection of five datasets containing barrier trails data, horse info, race results, trackwork, and a collection of comments about each horse. The data spans from 2015 to 2017
 
--[Hong Kong Horse Racing Results 2014-17 Seasons](https://www.kaggle.com/lantanacamara/hong-kong-horse-racing?select=race-result-race.csv):
+- [Hong Kong Horse Racing Results 2014-17 Seasons](https://www.kaggle.com/lantanacamara/hong-kong-horse-racing?select=race-result-race.csv):
 Data from 2014 to 2017 containing horse data as well as race statistics. 
 
 
